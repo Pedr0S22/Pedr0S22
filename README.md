@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Pedro Silva and I'm a Data Science and Engineering student starting my 3rd year, from Coimbra, Portugal.</p>
+<p align="left">I'm Pedro Silva, a Data Science and Engineering student from Coimbra, Portugal. I'm currently entering the 3rd year of my Bachelor's, where I explore how to solve real-world problems through code, data, and systems thinking.</p>
+
 
 ###
 
