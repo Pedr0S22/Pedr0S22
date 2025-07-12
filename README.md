@@ -19,16 +19,16 @@
 
 ###
 
-💡 I'm especially interested in **Data Science**, **Data Engineering**, and **Backend Development**. These areas allow me to combine technical skills with problem-solving to build meaningful solutions.
+💡 I'm especially interested in Data Science, Data Engineering, and Backend Development. These areas allow me to combine technical skills with problem-solving to build meaningful solutions.
 
 - **Why Data Science?**  
-  Because I enjoy **Maths**, **Statistics**, and **Programming** and data science is the perfect intersection of all three. I love solving modern real-world problems through data-driven solutions.
+  Because I enjoy Maths, Statistics, and Programming and data science is the perfect intersection of all three. I love solving modern real-world problems through data-driven solutions.
 
 - **Why Data Engineering?**  
-  This interest grew during my Bachelor's. I learned how important it is to understand and build **ETL/ELT pipelines** to prepare data for **Machine Learning** and **Deep Learning** models.
+  This interest grew during my Bachelor's. I learned how important it is to understand and build ETL/ELT pipelines to prepare data for Machine Learning and Deep Learning models.
 
 - **Why Backend Development?**  
-  My passion for backend emerged from subjects like **Distributed Systems** and **Database Management**. What excites me most is implementing business logic and designing robust systems that solve real problems efficiently.
+  My passion for backend emerged from subjects like Distributed Systems and Database Management. What excites me most is implementing business logic and designing robust systems that solve real problems efficiently.
 
 ###
 
