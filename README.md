@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Pedro Silva, a Data Science and Engineering student from Coimbra, Portugal. I'm currently entering the 3rd year of my Bachelor's, where I explore how to solve real-world problems through code, data, and systems thinking.</p>
+<p align="left">I'm Pedro Silva, a Data Science and Artificial Intelligence student from Coimbra, Portugal. I'm currently in the 3rd year of my Bachelor's, where I explore how to solve real-world problems through code, data, and systems thinking.</p>
 
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ I started my programming journey 3 years ago with C and the CS50 Harvard course, and began my Bachelor's in Data Science and Engineering 2 years ago.<br><br>📚 I'm currently learning how to build modern APIs in Java using the Spring Boot framework and NoSQL databases (MongoDB). I'm also exploring Spring Security, JWT tokens, and encryption through my MovieQuest project. On top of that, I'm strengthening my PostgreSQL skills and aiming to dive into new technologies like AWS S3 and Snowflake for data engineering. <br><br>🎯 My goals: Learn something new every day and build a strong portfolio to land my first full-time job after university.</p>
+<p align="left">✨ I started my programming journey 3 years ago with C and the CS50 Harvard course, and began my Bachelor's in Data Science and Engineering 2 years ago.<br><br>📚 I'm currently strengthening my PostgreSQL skills and aiming to dive into new technologies like AWS S3 and Snowflake for data engineering. <br><br>🎯 My goals: Learn something new every day and build a strong portfolio to land my first full-time job after university.</p>
 
 ### 
 
