@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ I started my programming journey 3 years ago with C and the CS50 Harvard course, and began my Bachelor's in Data Science and Engineering 2 years ago.<br><br>📚 I'm currently strengthening my PostgreSQL skills and aiming to dive into new technologies like AWS S3 and Snowflake for data engineering. <br><br>🎯 My goals: Learn something new every day and build a strong portfolio to land my first full-time job after university.</p>
+<p align="left">I started my programming journey 3 years ago with C and the CS50 Harvard course, and began my Bachelor's in Data Science and Engineering 4 years ago.<br><br>I'm currently strengthening my Featuring Engineering Capabilities and Learning new abbilities like MLOps, SparkML and DevOps.</p>
 
 ### 
 
@@ -19,10 +19,10 @@
 
 ###
 
-💡 I'm especially interested in Data Science, Data Engineering, and Backend Development. These areas allow me to combine technical skills with problem-solving to build meaningful solutions.
+I'm especially interested in Data Science, Data Engineering, and Backend Development. These areas allow me to combine technical skills with problem-solving to build meaningful solutions.
 
 - **Why Data Science?**  
-  Because I enjoy Maths, Statistics, and Programming and data science is the perfect intersection of all three. I love solving modern real-world problems through data-driven solutions.
+  Because I enjoy Maths, Statistics, and Programming; data science is the perfect intersection of all three. I love the idea of solving real-world problems through data-driven solutions.
 
 - **Why Data Engineering?**  
   This interest grew during my Bachelor's. I learned how important it is to understand and build ETL/ELT pipelines to prepare data for Machine Learning and Deep Learning models.
