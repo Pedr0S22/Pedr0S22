@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I started my programming journey 3 years ago with C and the CS50 Harvard course, and began my Bachelor's in Data Science and Engineering 4 years ago.<br><br>I'm currently strengthening my Featuring Engineering Capabilities and Learning new abbilities like MLOps, SparkML and DevOps.</p>
+<p align="left">I started my programming journey 4 years ago with C and the CS50 Harvard course, and began my Bachelor's in Data Science and Engineering 3 years ago.<br><br>I'm currently strengthening my Featuring Engineering Capabilities and Learning new abbilities like MLOps, SparkML and DevOps.</p>
 
 ### 
 
